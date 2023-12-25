@@ -15,16 +15,16 @@
 
 .. class:: center
 
-    :Название исследуемой задачи: Мое название работы
-    :Тип научной работы: M1P/НИР/CoIS
-    :Автор: Имя Отчество Фамилия
-    :Научный руководитель: степень, Фамилия Имя Отчество
-    :Научный консультант(при наличии): степень, Фамилия Имя Отчество
+    :Название исследуемой задачи: ALBERT for Question Answering on SQuAD 2.0
+    :Тип научной работы: M1P
+    :Автор: Данил Андреевич Тохчуков
+    :Научный руководитель: доктор физико-математических наук, профессор, ведущий научный сотрудник ВЦ РАН, Сенько Олег Валентинович
 
 Abstract
 ========
 
-Purus sit amet luctus venenatis lectus magna fringilla. Condimentum id venenatis a condimentum vitae sapien. Auctor neque vitae tempus quam pellentesque nec nam aliquam. Eget egestas purus viverra accumsan in. Nam aliquam sem et tortor. Donec et odio pellentesque diam volutpat commodo. Odio pellentesque diam volutpat commodo sed egestas. Sit amet dictum sit amet justo. Pellentesque sit amet porttitor eget. Imperdiet sed euismod nisi porta lorem mollis aliquam ut. Quis varius quam quisque id diam vel quam elementum. Ornare lectus sit amet est placerat in. Vulputate dignissim suspendisse in est ante. Elit sed vulputate mi sit amet mauris. Egestas sed tempus urna et pharetra pharetra. Viverra tellus in hac habitasse platea dictumst vestibulum rhoncus.
+Вопросно-ответные системы используются для того, чтобы помочь людям эффективно находить релевантную информацию.
+В данной статье решается задача Question Answering на датасете SQuAD 2.0. Рассматриваются основые вопросно-ответные системы и применение их к датасету SQuAD 2.0. Среди существующих вопросно-ответных систем рассматриваются SOTA системы на основе предобученного трансформера ALBERT, и вопросно-ответная система Bidirectional Attention Flow (BIDAF). В статье предлагается собственная вопросно-ответная система на базе ALBERT и Bidirectional Attention Flow (BIDAF). Система сохраняет логику BIDAF и использует идеи из SOTA систем на базе ALBERT.
 
 Research publications
 ===============================
