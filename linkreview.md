@@ -1,0 +1,17 @@
+# Обзор статей
+| # | Название  | Ссылка | Описание |
+| - | --------- | ------ | -------- |
+| 1 | N. S. Ashish Vaswani. Attention is all you need. 2017. | [link](https://arxiv.org/pdf/1706.03762.pdf) | Архитектура трансформера и механизм внимания |
+| 2 | E. A. Bolanle Ojokoh. A review of question answering systems. 2018. | [link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10247302) | Сводка основных вопросно-ответных систем. Архитектура BIDAF. |
+| 3 | G. C. Boxiao Pan. Question answering on squad 2.0. | [link](https://cs.stanford.edu/~bxpan/docs/cs224n_report.pdf) | Ещё один подход с использованием архитектуры BIDAF. В статье также используются предобученные эмбеддинги на базе Attentive Stanford Reader++ |
+| 4 | C. D. M. Jeffrey Pennington, Richard Socher. Glove: Global vectors for word representation. 2014. | [link](https://nlp.stanford.edu/pubs/glove.pdf) | Устройство работы Glove. Сильные и слабые стороны. |
+| 5 | Y. W. Lingyan Hao. Extended qa system on squad 2.0. | [link](https://d1wqtxts1xzle7.cloudfront.net/94525489/report223-libre.pdf?1668901349=&response-content-disposition=inline%3B+filename%3DExtended_QA_System_on_SQuAD_2_0.pdf&Expires=1703577023&Signature=KaW-vr5biPePcGOwgHf5qMrQgsNWlqIR3O7~XBfWq6dg-9vv4rj9iXVpNuPHkWrYXyB1MynSh8V53OfO5~hBP39cGIzCpI2eVUWJhRenvcvMjZ36nY2WAiL4xvWvx777Fqqg037R0RdsvdxqkQouHXAK-bIDx9crUg5AO6jgB8ReoQ8R0wrIZQ3Dffyz2B2lGd37L0NVEW9BSkMXpI1hMo0NBSu2qdAJaTrCjdUGNtX~W~ew8Iy51uKfj8zAUzw8cB1jt1DXDfhN~L4~b2i6LRizaENmQt83QmsHO~sNEHWXuzX798Wm2gIZIV8f7OcmDx7gw3VT7KqoYFJrqiVmDw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA) | Ещё один пример бейзлайна на базе BIDAF |
+| 6 | K. L. Pranav Rajpurkar, Jian Zhang. Squad: 100,000+ questions for machine comprehension of text. 2016. | [link](https://arxiv.org/pdf/1606.05250.pdf) | SQuAD 1.0 - Предшественник SQuAD 2.0 |
+| 7 | P. L. Pranav Rajpurkar, Robin Jia. Know what you don’t know: Unanswerable questions for squad. 2018. | [link](https://arxiv.org/pdf/1806.03822.pdf) | Статья обозревающая SQuAD 2.0 от авторов |
+| 8 | G. K. Ramon Tuason, Daniel Grazian. Bidaf model for question answering. 2016. | [link](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1174/reports/2760988.pdf) | архитектура вопросно-ответная системы BIDAF и применение к SQuAD 1.0.|
+| 9 | V. P. Shilun Li, Renee Li. Ensemble albert on squad 2.0. 2021 | [link](https://arxiv.org/pdf/2110.09665v1.pdf) | SOTA подход к построению QAS на базе ансамблей и ALBERT|
+| 10 | ALBERT: A Lite BERT for Self-supervised Learning of Language Representations. 2020 | [link](https://arxiv.org/abs/1909.11942) | Архитертура ALBERT |
+| 11 | rt: Pre-training of deep bidirectional transformers for language understanding. 2019. | [link](https://arxiv.org/pdf/1810.04805.pdf) | Архитектура BERT |
+| 12 | A. Ying. Really paying attention: A bert+bidaf ensemble model for question-answering. | [link](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/reports/default/15792214.pdf) | Простой стек из BERT и головы BIDAF |
+| 13 | AZ. X. Yuwen Zhang. Bert for question answering on squad 2.0. 2019. | [link](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/reports/default/15848021.pdf) | Подход аналогичный SOTA подходу с ALBERT, только теперь с BERT|
+| 14 | H. Z. Zhuosheng Zhang, Junjie Yang. Retrospective reader for machine reading comprehension. | [link](https://arxiv.org/pdf/2001.09694.pdf) | Стек ALBERT и Retrospective Reader|
